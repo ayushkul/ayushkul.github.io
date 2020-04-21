@@ -2,34 +2,63 @@
 
 ---
 
-### Category Name 1 
+### Technical Skills
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+# Web Development
+<ul>
+  <li>Javascript</li>
+  <li>ReactJS</li>
+  <li>NodeJS</li>
+  <li>MongoDB</li>
+  <li>TypeScript</li>
+  <li></li>
+</ul>
 
 ---
 
+# Mobile App Development
+<ul>
+  <li>Android</li>
+  <li>React Native</li>
+  <li>Deployment and Managig Apps on Google Play Store</li>
+</ul>
+
+---
+
+# Devops
+<ul>
+  <li>AWS ECS</li>
+  <li>CICD</li>
+  <li>Docker</li>
+  <li>Jenkins</li>
+  <li>AMQP</li>
+</ul>
+
+---
+
+# Languages/Skills/interest
+<ul>
+  <li>C, C++, Java</li>
+  <li>Data structures</li>
+  <li>Algorithms</li>
+  <li>Competitive Programming</li>
+</ul>
+
+---
+
+### Projects
+
+- [IoT based EV charger management Application](http://example.com/)
+- [Legal Data Record Management](http://example.com/)
+- [Wercplace](http://example.com/)
+- [Cruise Finder](http://example.com/)
+- [Hawaii Revealed](http://example.com/)
+- [TraceRX - Blockchain based Supply chain app](http://example.com/)
+
+---
+
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Managing the Youtube and Instagram as TheIndianDev</p>
