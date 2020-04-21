@@ -4,28 +4,27 @@
 
 ### Technical Skills
 
-# Web Development
+## Web Development
 <ul>
   <li>Javascript</li>
   <li>ReactJS</li>
   <li>NodeJS</li>
   <li>MongoDB</li>
   <li>TypeScript</li>
-  <li></li>
 </ul>
 
 ---
 
-# Mobile App Development
+## Mobile App Development
 <ul>
-  <li>Android</li>
+  <li>Android (Java)</li>
   <li>React Native</li>
   <li>Deployment and Managig Apps on Google Play Store</li>
 </ul>
 
 ---
 
-# Devops
+## Devops
 <ul>
   <li>AWS ECS</li>
   <li>CICD</li>
@@ -36,7 +35,18 @@
 
 ---
 
-# Languages/Skills/interest
+## Databases
+
+<ul>
+  <li>MongoDB</li>
+  <li>MYSQL</li>
+  <li>SQLite</li>
+  <li>Realm</li>
+</ul>
+
+---
+
+## Languages/Skills/interest
 <ul>
   <li>C, C++, Java</li>
   <li>Data structures</li>
@@ -54,10 +64,6 @@
 - [Cruise Finder](http://example.com/)
 - [Hawaii Revealed](http://example.com/)
 - [TraceRX - Blockchain based Supply chain app](http://example.com/)
-
----
-
-
 
 
 ---
