@@ -1,12 +1,10 @@
 title: Ayush Kulshrestha
-logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
+logo: "/images/circle-cropped.png?raw=true" # your photo (or logo) here
 description: >
-  <b>Software Developer at Leewayhertz</b>
   <br>
-  <ul>
-    <li>Exploring MERN Techstack</li>
-    <li>Love to build Apps</li>
-  </ul>
+  <b>Software Developer at Leewayhertz</b>
+  <br><br>Exploring MERN Techstack
+  <br>Love to build Apps
   <br>
   <a href="https://in.linkedin.com/in/ayush-kulshrestha">View My LinkedIn Profile</a>
 
